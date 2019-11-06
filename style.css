@@ -1,0 +1,79 @@
+.row {
+    position: absolute;
+    top: 180px;
+    left:  100px;
+}
+.about{
+	text-align: left;
+	position: static;
+    top: 180px;
+    left: 450px;
+    bottom: 30px;
+    right: 20px;
+
+}
+
+.opacity {
+  opacity: 0.25;
+  filter: alpha(opacity=50);
+  width: 100%;
+  height: 800px
+}
+
+.icon{
+	height: 900px;
+}
+.add{
+	text-align: center;
+}
+.head{
+	font-family:Palatino Linotype;
+	text-align: center;
+	font-size: 50px;
+	font-style: italic;
+
+
+}
+.pabout{
+	text-align: left;
+	padding-left: 280px;
+	padding-top: 40px;
+	
+}
+.bg{
+	background-color: #dfddc7;
+	padding-bottom: 40px;
+}
+.achivli{
+	padding-top: 60px;
+	padding-left: 150px;
+	font-family:Verdana;
+}
+.ch2{
+	padding-top: 20px;
+	padding-left: 80px;
+	font-family:Verdana;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+
+.pinfo{
+	background-color: lightgrey;
+  
+  padding: 50px;
+  
+  margin: 20px;
+}
